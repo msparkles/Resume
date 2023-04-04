@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5534822"
-     inkscape:cx="471.52133"
-     inkscape:cy="648.22114"
+     inkscape:zoom="1.0984778"
+     inkscape:cx="270.82932"
+     inkscape:cy="944.03365"
      inkscape:window-width="1870"
      inkscape:window-height="1046"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="a1559"
+     inkscape:current-layer="layer1"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
@@ -82,8 +82,7 @@
     <g
        id="g67309"
        inkscape:label="skills"
-       transform="translate(-0.52916667,-0.52916663)"
-       sodipodi:insensitive="true">
+       transform="translate(-0.52916667,-0.52916663)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -187,7 +186,17 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
            x="8.5207014"
            y="246.51144"
-           id="tspan1858">Elixir</tspan></text>
+           id="tspan1858">Elixir</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
+           x="8.5207014"
+           y="257.2038"
+           id="tspan453" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
+           x="8.5207014"
+           y="267.89615"
+           id="tspan455">..Complete info at</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;display:inline;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
@@ -404,6 +413,23 @@
            x="113.57583"
            y="213.58879"
            id="tspan1539">mouse.lgbt/things/</tspan></text>
+    </a>
+    <a
+       id="a465"
+       xlink:href="https://mouse.lgbt/about/#what"
+       transform="translate(-105.54196,64.154093)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#5674ad;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="113.57583"
+         y="213.58879"
+         id="text463"
+         inkscape:label="skills_a"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
+           x="113.57583"
+           y="213.58879"
+           id="tspan461">mouse.lgbt/about/#what</tspan></text>
     </a>
   </g>
 </svg>
