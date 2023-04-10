@@ -16,7 +16,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#505050"
@@ -27,15 +29,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0984778"
-     inkscape:cx="270.82932"
-     inkscape:cy="944.03365"
+     inkscape:zoom="0.75009823"
+     inkscape:cx="385.94945"
+     inkscape:cy="619.91881"
      inkscape:window-width="1870"
      inkscape:window-height="1046"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
@@ -45,12 +47,230 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:showpageshadow="0"
-     inkscape:deskcolor="#505050" />
+     inkscape:deskcolor="#505050"
+     showguides="false">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="297"
+       id="page7131" />
+    <inkscape:page
+       x="3.1140831e-14"
+       y="297"
+       width="210"
+       height="297"
+       id="page7133"
+       inkscape:export-filename="./Page 2.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
-     inkscape:label="Layer 1"
-     id="layer1"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="b"
+     style="display:inline"
+     transform="translate(4.8319498e-6,-1.6784668e-5)">
+    <rect
+       style="display:inline;fill:#f5f3ed;fill-opacity:1;stroke:none;stroke-width:3.81289;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1010-8"
+       width="210"
+       height="297"
+       x="3.3158657e-15"
+       y="297"
+       inkscape:label="background"
+       sodipodi:insensitive="true" />
+    <g
+       id="g3649"
+       inkscape:label="experience"
+       transform="translate(0,2.1166684)">
+      <g
+         id="g3457"
+         inkscape:label="sinpin"
+         transform="translate(0,0.52916701)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:1.25;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';display:inline;stroke-width:0.264583"
+           x="16.003702"
+           y="476.45178"
+           id="text1638-4-9-5-9"
+           inkscape:label="title"><tspan
+             sodipodi:role="line"
+             id="tspan1636-8-3-0-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:serif;-inkscape-font-specification:serif;fill:#4b5d92;fill-opacity:1;stroke-width:0.264583"
+             x="16.003702"
+             y="476.45178">sinpin-fe</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.5;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';white-space:pre;inline-size:193.242;display:inline;stroke-width:0.264583"
+           x="17.287022"
+           y="159.83359"
+           id="text1705-1-9-9-4"
+           transform="translate(-5.0449687,326.82396)"
+           inkscape:label="desc"><tspan
+             x="17.287022"
+             y="159.83359"
+             id="tspan927">Fediverse frontend specifically built for Akkoma. Working on it with a </tspan><tspan
+             x="17.287022"
+             y="168.30024"
+             id="tspan929">partner.
+</tspan><tspan
+             x="17.287022"
+             y="176.7669"
+             id="tspan931">Made with React and TypeScript.
+</tspan><tspan
+             x="17.287022"
+             y="185.23356"
+             id="tspan933">Currently only has posting support, we're working on other features </tspan><tspan
+             x="17.287022"
+             y="193.70022"
+             id="tspan935">right now.
+</tspan><tspan
+             x="17.287022"
+             y="202.16688"
+             id="tspan937">
+</tspan><tspan
+             x="17.287022"
+             y="210.63354"
+             id="tspan939">https://git.sr.ht/~sfr/sinpin-fe</tspan></text>
+      </g>
+      <g
+         id="g3451"
+         inkscape:label="ijo-pona-poki"
+         transform="translate(0,0.52916701)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:1.25;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';display:inline;stroke-width:0.264583"
+           x="16.003702"
+           y="396.16699"
+           id="text1638-4-9-5"
+           inkscape:label="title"><tspan
+             sodipodi:role="line"
+             id="tspan1636-8-3-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:serif;-inkscape-font-specification:serif;fill:#4b5d92;fill-opacity:1;stroke-width:0.264583"
+             x="16.003702"
+             y="396.16699">ijo-pona-poki</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.5;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';white-space:pre;inline-size:193.242;display:inline;stroke-width:0.264583"
+           x="17.287022"
+           y="159.83359"
+           id="text1705-1-9-9"
+           transform="translate(-5.0449682,246.01)"
+           inkscape:label="desc"><tspan
+             x="17.287022"
+             y="159.83359"
+             id="tspan941">Small project we're quite satisfied with. It was a port of a popular mod </tspan><tspan
+             x="17.287022"
+             y="168.30024"
+             id="tspan943">for Minecraft that we liked.
+</tspan><tspan
+             x="17.287022"
+             y="176.7669"
+             id="tspan945">It's an addon for a storage mod, mod that... adds a tree-like system to </tspan><tspan
+             x="17.287022"
+             y="185.23356"
+             id="tspan947">manage &quot;items&quot; for automation and usage.
+</tspan><tspan
+             x="17.287022"
+             y="193.70022"
+             id="tspan949">Purely Kotlin from scratch.
+</tspan><tspan
+             x="17.287022"
+             y="202.16688"
+             id="tspan951">
+</tspan><tspan
+             x="17.287022"
+             y="210.63354"
+             id="tspan953">https://modrinth.com/mod/ijo-pona-poki/</tspan></text>
+      </g>
+      <g
+         id="g3446"
+         inkscape:label="skydale"
+         transform="translate(0,0.52916701)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:1.25;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';display:inline;stroke-width:0.264583"
+           x="16.003702"
+           y="308.65173"
+           id="text1638-4-9"
+           inkscape:label="title"><tspan
+             sodipodi:role="line"
+             id="tspan1636-8-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:serif;-inkscape-font-specification:serif;fill:#4b5d92;fill-opacity:1;stroke-width:0.264583"
+             x="16.003702"
+             y="308.65173">Skydale</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.5;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';white-space:pre;inline-size:193.242;display:inline;stroke-width:0.264583"
+           x="17.287022"
+           y="159.83359"
+           id="text1705-1-9"
+           transform="translate(-5.0449682,158.49466)"
+           inkscape:label="desc"><tspan
+             x="17.287022"
+             y="159.83359"
+             id="tspan955">Minecraft server project. We initially used Bukkit, but then we switched </tspan><tspan
+             x="17.287022"
+             y="168.30024"
+             id="tspan957">to Fabric as Bukkit was insufficient for our use.
+</tspan><tspan
+             x="17.287022"
+             y="176.7669"
+             id="tspan959">We didn't continue with the project due to the inability to advertise our </tspan><tspan
+             x="17.287022"
+             y="185.23356"
+             id="tspan961">work, but there were some valuable lessons we've learned from working </tspan><tspan
+             x="17.287022"
+             y="193.70022"
+             id="tspan963">on it.
+</tspan><tspan
+             x="17.287022"
+             y="202.16688"
+             id="tspan965">We went from Java to Kotlin. Big shift in our coding style.
+</tspan><tspan
+             x="17.287022"
+             y="210.63354"
+             id="tspan967">
+</tspan><tspan
+             x="17.287022"
+             y="219.1002"
+             id="tspan969">https://github.com/Skydale/</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3653"
+       inkscape:label="separators ">
+      <path
+         id="path131390-2-6-5"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#6a6a74;stroke-width:0.481138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="e"
+         d="m 7.77285,467.43251 h 194.4543"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path131390-2-6"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#6a6a74;stroke-width:0.481138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="d"
+         d="M 7.7728505,387.76573 H 202.22715"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <metadata
+     id="metadata2379">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="" />
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="a"
      style="display:inline">
     <rect
        style="display:inline;fill:#f5f3ed;fill-opacity:1;stroke:none;stroke-width:3.81289;stroke-opacity:1;paint-order:stroke markers fill"
@@ -62,374 +282,334 @@
        inkscape:label="background"
        sodipodi:insensitive="true" />
     <g
-       id="g67292"
-       inkscape:label="projects"
-       transform="translate(-0.59136153,0.43021381)"
-       sodipodi:insensitive="true">
+       id="g67324-7"
+       inkscape:label="experience"
+       transform="translate(-1.3380289,94.057052)"
+       style="display:inline">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;display:inline;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         x="157.17999"
-         y="143.52023"
-         id="text24367-6-0"
-         inkscape:label="projects_title"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-           x="157.17999"
-           y="143.52023"
-           id="tspan1326">Projects</tspan></text>
-    </g>
-    <g
-       id="g67309"
-       inkscape:label="skills"
-       transform="translate(-0.52916667,-0.52916663)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="63.113632"
-         y="160.97267"
-         id="text50010-5-36"
-         inkscape:label="skills_b"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#ffa858;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="160.97267"
-           id="tspan47738-3">Skilled</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#ffa858;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="171.66502"
-           id="tspan464">Skilled</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#ffa858;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="182.35736"
-           id="tspan133811-6">Skilled</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#e84022;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="193.04971"
-           id="tspan56656-2">Main</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#bc9383;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="203.74207"
-           id="tspan460">Usable</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#bc9383;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="214.4344"
-           id="tspan401">Usable</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#d97b57;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="225.12675"
-           id="tspan141058-0">Adequate</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#d97b57;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="235.81911"
-           id="tspan1856">Adequate</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#f79d7b;fill-opacity:1;stroke-width:0.264583"
-           x="63.113632"
-           y="246.51144"
-           id="tspan1868">Learning</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#272727;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="8.5207014"
-         y="160.97267"
-         id="text50010-5"
-         inkscape:label="skills_a"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="160.97267"
-           id="tspan141058">C/C++</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="171.66502"
-           id="tspan44976">Python</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="182.35736"
-           id="tspan44971">Java/Kotlin</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="193.04971"
-           id="tspan44962">Rust</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="203.74207"
-           id="tspan397">C#</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="214.4344"
-           id="tspan44952">Windows</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="225.12675"
-           id="tspan393">Linux</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="235.81911"
-           id="tspan1860">HTML/CSS</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="246.51144"
-           id="tspan1858">Elixir</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="257.2038"
-           id="tspan453" /><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="8.5207014"
-           y="267.89615"
-           id="tspan455">..Complete info at</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;display:inline;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         x="50.990379"
-         y="144.86908"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9944px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="9.765976"
+         y="52.395443"
          id="text24367-6"
-         inkscape:label="skills_title"><tspan
+         inkscape:label="title"><tspan
            sodipodi:role="line"
-           id="tspan24365-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:FreeSans;-inkscape-font-specification:FreeSans;text-align:center;text-anchor:middle;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-           x="50.990379"
-           y="144.86908">Skills</tspan></text>
+           id="tspan24365-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9944px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#a775dc;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           x="9.765976"
+           y="52.395443">Experience</tspan></text>
+      <g
+         id="g3441"
+         inkscape:label="automancy"
+         style="display:inline"
+         transform="translate(1.3380289,-89.294557)">
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:1.25;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';display:inline;stroke-width:0.264583"
+           x="16.003702"
+           y="218.34142"
+           id="text1638-4"
+           inkscape:label="title"><tspan
+             sodipodi:role="line"
+             id="tspan1636-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:serif;-inkscape-font-specification:serif;fill:#4b5d92;fill-opacity:1;stroke-width:0.264583"
+             x="16.003702"
+             y="218.34142">automancy</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.5;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';white-space:pre;inline-size:193.242;display:inline;stroke-width:0.264583"
+           x="17.287022"
+           y="159.83359"
+           id="text1705-1"
+           transform="translate(-5.0449686,68.184271)"
+           inkscape:label="desc"><tspan
+             x="17.287022"
+             y="159.83359"
+             id="tspan971">Our automation game made with Rust and Vulkan without any game </tspan><tspan
+             x="17.287022"
+             y="168.30024"
+             id="tspan973">engine.
+</tspan><tspan
+             x="17.287022"
+             y="176.7669"
+             id="tspan975">Parallelized with the power of an Actor System. Made to be data-driven </tspan><tspan
+             x="17.287022"
+             y="185.23356"
+             id="tspan977">and scriptable.
+</tspan><tspan
+             x="17.287022"
+             y="193.70022"
+             id="tspan979">Collaborating with a friend.
+</tspan><tspan
+             x="17.287022"
+             y="202.16688"
+             id="tspan981">
+</tspan><tspan
+             x="17.287022"
+             y="210.63354"
+             id="tspan983">https://github.com/sorcerers-class/automancy</tspan></text>
+      </g>
+      <g
+         id="g3436"
+         inkscape:label="piecewise"
+         style="display:inline"
+         transform="translate(1.3380289,-89.823721)">
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:1.25;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';stroke-width:0.264583"
+           x="16.003702"
+           y="155.23656"
+           id="text1638"
+           inkscape:label="title"><tspan
+             sodipodi:role="line"
+             id="tspan1636"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:serif;-inkscape-font-specification:serif;fill:#4b5d92;fill-opacity:1;stroke-width:0.264583"
+             x="16.003702"
+             y="155.23656">Piecewise Society</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.5;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';white-space:pre;inline-size:193.242;display:inline;stroke-width:0.264583"
+           x="17.287022"
+           y="159.83359"
+           id="text3139"
+           transform="translate(-4.8756353,5.4362937)"
+           inkscape:label="desc"><tspan
+             x="17.287022"
+             y="159.83359"
+             id="tspan985">We worked for Piecewise as a frontend developer, working with Svelte.
+</tspan><tspan
+             x="17.287022"
+             y="168.30024"
+             id="tspan987">
+</tspan><tspan
+             x="17.287022"
+             y="176.7669"
+             id="tspan989">We largely enjoyed working for them and vice versa and we worked on </tspan><tspan
+             x="17.287022"
+             y="185.23356"
+             id="tspan991">some nice-looking prototypes. We made a progress bar in pure CSS and </tspan><tspan
+             x="17.287022"
+             y="193.70022"
+             id="tspan993">a prototype of their artist layout.
+</tspan></text>
+      </g>
     </g>
     <g
        id="g67324"
        inkscape:label="info"
-       transform="translate(-1.3380289,-1.8206273)">
-      <a
-         id="a1253"
-         xlink:href="https://mouse.lgbt/">
-        <text
-           xml:space="preserve"
-           style="display:inline;font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="69.655457"
-           y="91.966377"
-           id="text1214"
-           inkscape:label="website_link"
-           transform="translate(0,26.458334)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
+       transform="translate(-1.3380289,-8.1706317)"
+       style="display:inline">
+      <g
+         id="g10319"
+         inkscape:label="right"
+         transform="translate(0,-0.52916667)">
+        <a
+           id="a1253"
+           xlink:href="https://mouse.lgbt/"
+           inkscape:label="website"
+           transform="matrix(0.90130759,0,0,1,9.0410274,13.045023)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:8.91817px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
              x="69.655457"
              y="91.966377"
-             id="tspan1212">https://mouse.lgbt/</tspan></text>
-      </a>
-      <a
-         id="a1249"
-         xlink:href="https://codeberg.org/madeline/">
-        <text
-           xml:space="preserve"
-           style="display:inline;font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="69.655457"
-           y="81.401581"
-           id="text1198"
-           inkscape:label="codeberg_link"
-           transform="translate(0,26.458334)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
+             id="text1214"
+             inkscape:label="website_link"
+             transform="translate(0,26.458334)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.91817px;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
+               x="69.655457"
+               y="91.966377"
+               id="tspan1212">https://mouse.lgbt/</tspan></text>
+        </a>
+        <a
+           id="a1249"
+           xlink:href="https://codeberg.org/madeline/"
+           inkscape:label="codeberg"
+           transform="matrix(0.90130759,0,0,1,9.0731856,13.033436)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:8.91817px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
              x="69.655457"
              y="81.401581"
-             id="tspan1196">https://codeberg.org/madeline/</tspan></text>
-      </a>
-      <a
-         id="a1245"
-         xlink:href="https://github.com/Mg138/">
-        <text
-           xml:space="preserve"
-           style="display:inline;font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           x="69.655457"
-           y="70.836784"
-           id="text1233"
-           inkscape:label="github_link"
-           transform="translate(0,26.458334)"><tspan
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
+             id="text1198"
+             inkscape:label="codeberg_link"
+             transform="translate(0,26.458334)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.91817px;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
+               x="69.655457"
+               y="81.401581"
+               id="tspan1196">https://codeberg.org/madeline/</tspan></text>
+        </a>
+        <a
+           id="a1245"
+           xlink:href="https://github.com/Mg138/"
+           inkscape:label="github"
+           transform="matrix(0.90130759,0,0,1,9.0731856,12.371037)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:8.91817px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
              x="69.655457"
              y="70.836784"
-             id="tspan1231">https://github.com/Mg138/</tspan></text>
-      </a>
+             id="text1233"
+             inkscape:label="github_link"
+             transform="translate(0,26.458334)"><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.91817px;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
+               x="69.655457"
+               y="70.836784"
+               id="tspan1231">https://github.com/Mg138/</tspan></text>
+        </a>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.46666px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251188"
+           x="75.821449"
+           y="93.696228"
+           id="text10262"
+           inkscape:label="email"
+           transform="scale(0.94937225,1.0533276)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666px;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#5674ad;fill-opacity:1;stroke-width:0.251188"
+             x="75.821449"
+             y="93.696228"
+             id="tspan10260">madeline@mouse.lgbt</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.46666px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251188"
+           x="75.635185"
+           y="84.017326"
+           id="text10276"
+           inkscape:label="pronouns"
+           transform="scale(0.94937225,1.0533276)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666px;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#5674ad;fill-opacity:1;stroke-width:0.251188"
+             x="75.635185"
+             y="84.017326"
+             id="tspan10278">they/them</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:8.46666px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251188"
+           x="75.753716"
+           y="73.86853"
+           id="text10286"
+           inkscape:label="birthday"
+           transform="scale(0.94937225,1.0533276)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666px;font-family:Iosevka;-inkscape-font-specification:Iosevka;fill:#5674ad;fill-opacity:1;stroke-width:0.251188"
+             x="75.753716"
+             y="73.86853"
+             id="tspan10284">06/05/2005</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251188"
+           x="75.78759"
+           y="63.74305"
+           id="text6233"
+           inkscape:label="nationality"
+           transform="scale(0.94937216,1.0533277)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#5674ad;fill-opacity:1;stroke-width:0.251188"
+             x="75.78759"
+             y="63.74305"
+             id="tspan8004">Taiwan</tspan></text>
+      </g>
       <text
          xml:space="preserve"
-         style="display:inline;font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="69.790924"
-         y="65.234077"
-         id="text6233"
-         inkscape:label="info_b"><tspan
-           sodipodi:role="line"
-           id="tspan6231"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
-           x="69.790924"
-           y="65.234077">Taiwan</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
-           x="69.790924"
-           y="75.926422"
-           id="tspan6235">06/05/2005</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
-           x="69.790924"
-           y="86.618774"
-           id="tspan1711">madeline@mouse.lgbt</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#272727;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="66.39579"
-         y="64.70491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Iosevka;-inkscape-font-specification:'Iosevka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:100.202;display:inline;fill:#272727;fill-opacity:1;stroke:none;stroke-width:0.258628"
+         x="70.435707"
+         y="64.850952"
          id="text50010"
-         inkscape:label="info_a"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';text-align:end;text-anchor:end;fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="66.39579"
-           y="64.70491"
-           id="tspan203651">Nationality:</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';text-align:end;text-anchor:end;fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="66.39579"
-           y="75.397255"
-           id="tspan3420">Birthday:</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';text-align:end;text-anchor:end;fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="66.39579"
-           y="86.089607"
-           id="tspan3226">Email:</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';text-align:end;text-anchor:end;fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="66.39579"
-           y="96.781952"
-           id="tspan3218">Github:</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';text-align:end;text-anchor:end;fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="66.39579"
-           y="107.4743"
-           id="tspan3285">Codeberg:</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';text-align:end;text-anchor:end;fill:#272727;fill-opacity:1;stroke-width:0.264583"
-           x="66.39579"
-           y="118.16665"
-           id="tspan1713">Website:</tspan></text>
+         inkscape:label="left"
+         transform="matrix(0.97749111,0,0,1.0230272,-98.327602,-0.52916791)"><tspan
+           x="70.435707"
+           y="64.850952"
+           id="tspan997"><tspan
+             style="text-align:end;text-anchor:end"
+             id="tspan995">Nationality:
+</tspan></tspan><tspan
+           x="70.435707"
+           y="75.434287"
+           id="tspan1001"><tspan
+             style="text-align:end;text-anchor:end"
+             id="tspan999">Birthday:
+</tspan></tspan><tspan
+           x="70.435707"
+           y="86.017622"
+           id="tspan1005"><tspan
+             style="text-align:end;text-anchor:end"
+             id="tspan1003">Pronouns:
+</tspan></tspan><tspan
+           x="70.435707"
+           y="96.600958"
+           id="tspan1009"><tspan
+             style="text-align:end;text-anchor:end"
+             id="tspan1007">Email:
+</tspan></tspan><tspan
+           x="70.435707"
+           y="107.18429"
+           id="tspan1013"><tspan
+             style="text-align:end;text-anchor:end"
+             id="tspan1011">Github:
+</tspan></tspan><tspan
+           x="70.435707"
+           y="117.76763"
+           id="tspan1017"><tspan
+             style="text-align:end;text-anchor:end"
+             id="tspan1015">Codeberg:
+</tspan></tspan><tspan
+           x="70.435707"
+           y="128.35097"
+           id="tspan1021"><tspan
+             style="text-align:end;text-anchor:end"
+             id="tspan1019">Website:</tspan></tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9944px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;display:inline;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
          x="9.765976"
-         y="51.337109"
+         y="53.982944"
          id="text24367"
-         inkscape:label="info_title"><tspan
+         inkscape:label="title"><tspan
            sodipodi:role="line"
            id="tspan24365"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9944px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#a775dc;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
            x="9.765976"
-           y="51.337109">Info</tspan></text>
+           y="53.982944">Info</tspan></text>
     </g>
     <g
        id="g67330"
        inkscape:label="separators"
-       style="fill:none;fill-opacity:1;stroke:#b3a57e;stroke-opacity:1">
+       style="display:inline;fill:none;fill-opacity:1;stroke:#b3a57e;stroke-opacity:1"
+       transform="translate(0,-0.52917161)">
       <path
-         style="fill:none;fill-opacity:1;stroke:#8c8bb3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="M 0,31.677537 H 210"
-         id="path17605"
-         inkscape:label="separator" />
+         id="path131390-2"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#6a6a74;stroke-width:0.481138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="c"
+         d="M 7.7728485,211.68711 H 202.22715"
+         sodipodi:nodetypes="cc" />
       <path
          id="path131390"
-         style="fill:none;fill-opacity:1;stroke:#8c8bb3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:label="separator"
-         d="M 105,125.33785 V 297 M 0,125.33785 l 210,0"
-         sodipodi:nodetypes="cccc" />
+         style="display:inline;fill:none;fill-opacity:1;stroke:#6a6a74;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="b"
+         d="M 0,132.217 H 210"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#6a6a74;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 0,31.677537 H 210"
+         id="path17605"
+         inkscape:label="a" />
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1;font-family:sans-serif;letter-spacing:-0.661458px;word-spacing:0px;display:inline;fill:#7799eb;fill-opacity:1;stroke:none;stroke-width:0.243835"
-       x="89.918388"
-       y="22.534515"
+       style="font-style:normal;font-weight:normal;font-size:19.05px;line-height:1;font-family:sans-serif;letter-spacing:-0.661458px;word-spacing:0px;display:inline;fill:#6f85c6;fill-opacity:1;stroke:none;stroke-width:0.243835"
+       x="164.69902"
+       y="21.58213"
        id="text3952"
        inkscape:label="name"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:serif;-inkscape-font-specification:serif;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#7799eb;fill-opacity:1;stroke-width:0.243835"
-         x="91.825157"
-         y="22.534515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.05px;font-family:serif;-inkscape-font-specification:serif;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#6f85c6;fill-opacity:1;stroke-width:0.243835"
+         x="168.32912"
+         y="21.58213"
          transform="translate(200.50875)"
          id="tspan34532">Madeline Sparkles </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#272727;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="113.52503"
-       y="160.44351"
-       id="text50010-5-3"
-       inkscape:label="skills_a"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-         x="113.52503"
-         y="160.44351"
-         id="tspan1858-9">Skydale</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-         x="113.52503"
-         y="171.13586"
-         id="tspan2111">ijo-pona-poki</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-         x="113.52503"
-         y="181.8282"
-         id="tspan2113">automancy (WIP)</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-         x="113.52503"
-         y="192.52055"
-         id="tspan2115" /><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#272727;fill-opacity:1;stroke-width:0.264583"
-         x="113.52503"
-         y="203.21291"
-         id="tspan2131">...Complete info at</tspan></text>
-    <a
-       id="a1559"
-       xlink:href="https://mouse.lgbt/things/">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#5674ad;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="113.57583"
-         y="213.58879"
-         id="text1541"
-         inkscape:label="skills_a"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
-           x="113.57583"
-           y="213.58879"
-           id="tspan1539">mouse.lgbt/things/</tspan></text>
-    </a>
-    <a
-       id="a465"
-       xlink:href="https://mouse.lgbt/about/#what"
-       transform="translate(-105.54196,64.154093)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#5674ad;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="113.57583"
-         y="213.58879"
-         id="text463"
-         inkscape:label="skills_a"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Sarasa Mono TC';-inkscape-font-specification:'Sarasa Mono TC';fill:#5674ad;fill-opacity:1;stroke-width:0.264583"
-           x="113.57583"
-           y="213.58879"
-           id="tspan461">mouse.lgbt/about/#what</tspan></text>
-    </a>
   </g>
 </svg>
