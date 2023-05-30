@@ -29,15 +29,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.75009823"
-     inkscape:cx="386.61603"
-     inkscape:cy="619.25223"
-     inkscape:window-width="1246"
-     inkscape:window-height="691"
-     inkscape:window-x="2750"
-     inkscape:window-y="156"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g3436"
+     inkscape:zoom="1.0607991"
+     inkscape:cx="472.28547"
+     inkscape:cy="2186.5592"
+     inkscape:window-width="1870"
+     inkscape:window-height="1051"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
@@ -87,6 +87,43 @@
        inkscape:label="experience"
        transform="translate(0,2.1166684)">
       <g
+         id="g3457-3"
+         inkscape:label="rainbow-filter"
+         transform="translate(0,79.468628)"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-size:8.46667px;line-height:1.25;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';display:inline;stroke-width:0.264583"
+           x="16.003702"
+           y="476.45178"
+           id="text1638-4-9-5-9-6"
+           inkscape:label="title"><tspan
+             sodipodi:role="line"
+             id="tspan1636-8-3-0-8-7"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:serif;-inkscape-font-specification:serif;fill:#4b5d92;fill-opacity:1;stroke-width:0.264583"
+             x="16.003702"
+             y="476.45178">rainbow-filter</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.64444px;line-height:1.5;font-family:'Sarasa UI TC';-inkscape-font-specification:'Sarasa UI TC, Normal';white-space:pre;inline-size:193.242;display:inline;stroke-width:0.264583"
+           x="17.287022"
+           y="159.83359"
+           id="text1705-1-9-9-4-5"
+           transform="translate(-5.0449687,326.82396)"
+           inkscape:label="desc"><tspan
+             x="17.287022"
+             y="159.83359"
+             id="tspan825">Rainbow filter effect on your browser. Written in Rust with wgpu.
+</tspan><tspan
+             x="17.287022"
+             y="168.30024"
+             id="tspan827">Recreation of an old program we made in ~2017.
+</tspan><tspan
+             x="17.287022"
+             y="176.7669"
+             id="tspan829">Live at: https://mg138.github.io/rainbow-filter/</tspan></text>
+      </g>
+      <g
          id="g3457"
          inkscape:label="sinpin"
          transform="translate(0,0.52916701)"
@@ -113,29 +150,29 @@
            inkscape:label="desc"><tspan
              x="17.287022"
              y="159.83359"
-             id="tspan607">Fediverse frontend specifically built for Akkoma. Working on it with a </tspan><tspan
+             id="tspan831">Fediverse frontend specifically built for Akkoma. Working on it with a </tspan><tspan
              x="17.287022"
              y="168.30024"
-             id="tspan609">partner.
+             id="tspan833">partner.
 </tspan><tspan
              x="17.287022"
              y="176.7669"
-             id="tspan611">Made with React and TypeScript.
+             id="tspan835">Made with React and TypeScript.
 </tspan><tspan
              x="17.287022"
              y="185.23356"
-             id="tspan613">Currently only has posting support, we're working on other features </tspan><tspan
+             id="tspan837">Currently only has posting support, we're working on other features </tspan><tspan
              x="17.287022"
              y="193.70022"
-             id="tspan615">right now.
+             id="tspan839">right now.
 </tspan><tspan
              x="17.287022"
              y="202.16688"
-             id="tspan617">
+             id="tspan841">
 </tspan><tspan
              x="17.287022"
              y="210.63354"
-             id="tspan619">https://git.sr.ht/~sfr/sinpin-fe</tspan></text>
+             id="tspan843">https://git.sr.ht/~sfr/sinpin-fe</tspan></text>
       </g>
       <g
          id="g3451"
@@ -164,29 +201,29 @@
            inkscape:label="desc"><tspan
              x="17.287022"
              y="159.83359"
-             id="tspan621">Small project we're quite satisfied with. It was a port of a popular mod </tspan><tspan
+             id="tspan845">Small project we're quite satisfied with. It was a port of a popular mod </tspan><tspan
              x="17.287022"
              y="168.30024"
-             id="tspan623">for Minecraft that we liked.
+             id="tspan847">for Minecraft that we liked.
 </tspan><tspan
              x="17.287022"
              y="176.7669"
-             id="tspan625">It's an addon for a storage mod, mod that... adds a tree-like system to </tspan><tspan
+             id="tspan849">It's an addon for a storage mod, mod that... adds a tree-like system to </tspan><tspan
              x="17.287022"
              y="185.23356"
-             id="tspan627">manage &quot;items&quot; for automation and usage.
+             id="tspan851">manage &quot;items&quot; for automation and usage.
 </tspan><tspan
              x="17.287022"
              y="193.70022"
-             id="tspan629">Purely Kotlin from scratch.
+             id="tspan853">Purely Kotlin from scratch.
 </tspan><tspan
              x="17.287022"
              y="202.16688"
-             id="tspan631">
+             id="tspan855">
 </tspan><tspan
              x="17.287022"
              y="210.63354"
-             id="tspan633">https://modrinth.com/mod/ijo-pona-poki/</tspan></text>
+             id="tspan857">https://modrinth.com/mod/ijo-pona-poki/</tspan></text>
       </g>
       <g
          id="g3446"
@@ -215,32 +252,32 @@
            inkscape:label="desc"><tspan
              x="17.287022"
              y="159.83359"
-             id="tspan635">Minecraft server project. We initially used Bukkit, but then we switched </tspan><tspan
+             id="tspan859">Minecraft server project. We initially used Bukkit, but then we switched </tspan><tspan
              x="17.287022"
              y="168.30024"
-             id="tspan637">to Fabric as Bukkit was insufficient for our use.
+             id="tspan861">to Fabric as Bukkit was insufficient for our use.
 </tspan><tspan
              x="17.287022"
              y="176.7669"
-             id="tspan639">We didn't continue with the project due to the inability to advertise our </tspan><tspan
+             id="tspan863">We didn't continue with the project due to the inability to advertise our </tspan><tspan
              x="17.287022"
              y="185.23356"
-             id="tspan641">work, but there were some valuable lessons we've learned from working </tspan><tspan
+             id="tspan865">work, but there were some valuable lessons we've learned from working </tspan><tspan
              x="17.287022"
              y="193.70022"
-             id="tspan643">on it.
+             id="tspan867">on it.
 </tspan><tspan
              x="17.287022"
              y="202.16688"
-             id="tspan645">We went from Java to Kotlin. Big shift in our coding style.
+             id="tspan869">We went from Java to Kotlin. Big shift in our coding style.
 </tspan><tspan
              x="17.287022"
              y="210.63354"
-             id="tspan647">
+             id="tspan871">
 </tspan><tspan
              x="17.287022"
              y="219.1002"
-             id="tspan649">https://github.com/Skydale/</tspan></text>
+             id="tspan873">https://github.com/Skydale/</tspan></text>
       </g>
     </g>
     <g
@@ -249,8 +286,14 @@
       <path
          id="path131390-2-6-5"
          style="display:inline;fill:none;fill-opacity:1;stroke:#6a6a74;stroke-width:0.481138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:label="e"
+         inkscape:label="f"
          d="m 7.77285,467.43251 h 194.4543"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path131390-2-6-5-3"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#6a6a74;stroke-width:0.481138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="e"
+         d="M 8.3853366,546.3461 H 202.83964"
          sodipodi:nodetypes="cc" />
       <path
          id="path131390-2-6"
@@ -325,29 +368,29 @@
            inkscape:label="desc"><tspan
              x="17.287022"
              y="159.83359"
-             id="tspan651">Our automation game made with Rust and Vulkan without any game </tspan><tspan
+             id="tspan875">Our automation game made with Rust and Vulkan without any game </tspan><tspan
              x="17.287022"
              y="168.30024"
-             id="tspan653">engine.
+             id="tspan877">engine.
 </tspan><tspan
              x="17.287022"
              y="176.7669"
-             id="tspan655">Parallelized with the power of an Actor System. Made to be data-driven </tspan><tspan
+             id="tspan879">Parallelized with the power of an Actor System. Made to be data-driven </tspan><tspan
              x="17.287022"
              y="185.23356"
-             id="tspan657">and scriptable.
+             id="tspan881">and scriptable.
 </tspan><tspan
              x="17.287022"
              y="193.70022"
-             id="tspan659">Collaborating with a friend.
+             id="tspan883">Collaborating with a friend.
 </tspan><tspan
              x="17.287022"
              y="202.16688"
-             id="tspan661">
+             id="tspan885">
 </tspan><tspan
              x="17.287022"
              y="210.63354"
-             id="tspan663">https://github.com/sorcerers-class/automancy</tspan></text>
+             id="tspan887">https://github.com/sorcerers-class/automancy</tspan></text>
       </g>
       <g
          id="g3436"
@@ -376,21 +419,21 @@
            inkscape:label="desc"><tspan
              x="17.287022"
              y="159.83359"
-             id="tspan665">We worked for Piecewise as a frontend developer, working with Svelte.
+             id="tspan889">We worked for Piecewise as a frontend developer, working with Svelte.
 </tspan><tspan
              x="17.287022"
              y="168.30024"
-             id="tspan667">Unfortunately never got hired due to funding issues.
+             id="tspan891">Unfortunately never got hired due to funding issues.
 </tspan><tspan
              x="17.287022"
              y="176.7669"
-             id="tspan669">We largely enjoyed working for them and vice versa and we worked on </tspan><tspan
+             id="tspan893">We largely enjoyed working for them and vice versa and we worked on </tspan><tspan
              x="17.287022"
              y="185.23356"
-             id="tspan671">some nice-looking prototypes. We made a progress bar in pure CSS and </tspan><tspan
+             id="tspan895">some nice-looking prototypes. We made a progress bar in pure CSS and </tspan><tspan
              x="17.287022"
              y="193.70022"
-             id="tspan673">a prototype of their artist layout.
+             id="tspan897">a prototype of their artist layout.
 </tspan></text>
       </g>
     </g>
@@ -523,45 +566,45 @@
          transform="matrix(0.97749111,0,0,1.0230272,-98.327602,-0.52916791)"><tspan
            x="70.435707"
            y="64.850952"
-           id="tspan677"><tspan
+           id="tspan901"><tspan
              style="text-align:end;text-anchor:end"
-             id="tspan675">Nationality:
+             id="tspan899">Nationality:
 </tspan></tspan><tspan
            x="70.435707"
            y="75.434287"
-           id="tspan681"><tspan
+           id="tspan905"><tspan
              style="text-align:end;text-anchor:end"
-             id="tspan679">Birthday:
+             id="tspan903">Birthday:
 </tspan></tspan><tspan
            x="70.435707"
            y="86.017622"
-           id="tspan685"><tspan
+           id="tspan909"><tspan
              style="text-align:end;text-anchor:end"
-             id="tspan683">Pronouns:
+             id="tspan907">Pronouns:
 </tspan></tspan><tspan
            x="70.435707"
            y="96.600958"
-           id="tspan689"><tspan
+           id="tspan913"><tspan
              style="text-align:end;text-anchor:end"
-             id="tspan687">Email:
+             id="tspan911">Email:
 </tspan></tspan><tspan
            x="70.435707"
            y="107.18429"
-           id="tspan693"><tspan
+           id="tspan917"><tspan
              style="text-align:end;text-anchor:end"
-             id="tspan691">Github:
+             id="tspan915">Github:
 </tspan></tspan><tspan
            x="70.435707"
            y="117.76763"
-           id="tspan697"><tspan
+           id="tspan921"><tspan
              style="text-align:end;text-anchor:end"
-             id="tspan695">Codeberg:
+             id="tspan919">Codeberg:
 </tspan></tspan><tspan
            x="70.435707"
            y="128.35097"
-           id="tspan701"><tspan
+           id="tspan925"><tspan
              style="text-align:end;text-anchor:end"
-             id="tspan699">Website:</tspan></tspan></text>
+             id="tspan923">Website:</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9944px;line-height:1.25;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;display:inline;fill:#ba79ff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
